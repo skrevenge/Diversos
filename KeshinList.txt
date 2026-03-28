@@ -1,0 +1,67 @@
+1 Pégaso - Pegasus	
+2 Lancelot	
+3 Maestro	
+4 Apolo - Apollo	
+5 Musashi	
+6 Judge		
+7 Leon		
+8 Saiya - Saia		
+9 Varius	
+10 Gazard	
+11 Gigantes 
+12 Falco	
+13 Poseidon	
+14 Purim	
+15 Dalamanglass	
+16 Gareus	
+17 Dado Mestre - Diceman
+18 Peão Branco - Pawn W
+19 Cavalo Branco - Knight W
+20 Bispo Branco - Bishop W
+21 Torre Branca	- Rook W
+22 Dama de Branco	- Redia W
+23 Rei de Branco - King Burn W
+24 Arthur	
+25 Titanias	
+26 Ghyrase	
+27 Deathroth	
+28 Exodus	
+29 Dragão Níveo - Shining Dragon	
+30 Grifo - Griphon
+31 Corvus	- Raven
+32 Tedis 
+33 Arquipégaso	- Pegasus Arc
+34 Soldado Preto - Pawn B
+35 Cavalo Preto - Knight B
+36 Bispo Preto - Bishop B
+37 Torre preta - Rook B
+38 Dama de Preto - Redia B
+39 Rei de Preto - King Burn B
+40 Grande Gavião - Mega Hawk
+41 Rook - Ryuuku	
+42 Diavel
+43 Baron	
+44 Phantam	
+45 Netuno - Neptune	
+46 Giga doon	
+47 Dalamanrose	
+48 Maxim	
+49 Las Vegas - Last Vega
+50 Corogaon
+51 Grandioso - Majin Great
+52 Dado Carmesim - Red Dice
+53 Pesadelo - Dream Uncle
+54 Pendragon	
+61 Fenghuang	
+63 Atena - Athena	
+64 Kamaitachi	
+65 Brunilda - Bruhildr	
+66 Yulong - Gyokuryuu	
+67 Genbu	
+68 Lycaon
+69 Zodiak
+201 Victoria
+202 Clearbunny - Clara Bunny
+203 Entusiasmante - Entertainer
+204 Warborg
+206 Vitorioso - Majin Victory
