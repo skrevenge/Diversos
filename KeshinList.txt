@@ -60,8 +60,19 @@
 67 Genbu	
 68 Lycaon
 69 Zodiak
+70 Amaterasu
+71 Jaggerwock
+72 Sombra de Plasma AT - Plasma Shadow OF
+73 Sombra de Plasma DF - Plasma Shadow DF
+74 Sombra de Plasma CH - Plasma Shadow MD
+75 Sombra de Plasma GL - Plasma Shadow GK
+76 Robin
+77 Agillaus
+78 Enamorador ♀ - Lovers ♀
+79 Tamazusa
 201 Victoria
 202 Clearbunny - Clara Bunny
 203 Entusiasmante - Entertainer
 204 Warborg
+205 Lorde Robin - Paladin Robin
 206 Vitorioso - Majin Victory
